@@ -13,3 +13,5 @@
 [High.Performance.MySQL.3rd.Edition](ftp://203.157.240.9/pub/docs/High.Performance.MySQL.3rd.Edition.pdf)
 
 [web开发者知识体系](https://www.kancloud.cn/martist/ma_zhao_liu)
+
+[Elasticsearch 权威指南（中文版）](https://legacy.gitbook.com/book/looly/elasticsearch-the-definitive-guide-cn/details)
